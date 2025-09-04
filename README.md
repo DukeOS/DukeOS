@@ -43,3 +43,5 @@ Este é um projeto open-source movido pela comunidade. No momento, estamos na fa
 ---
 
 Feito com ❤️, café e código.
+
+![Clube do Java ☕](https://github.com/clubedojava)
