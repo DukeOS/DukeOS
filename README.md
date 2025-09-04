@@ -4,11 +4,15 @@
 
 **DukeOS: O Linux para Desenvolvedores. Instale e comece a codar.**
 
-DukeOS é uma distribuição Linux baseada em Arch, criada por desenvolvedores, para desenvolvedores. Nossa missão é eliminar a dor de cabeça da configuração inicial de um ambiente de desenvolvimento, oferecendo um sistema operacional completo, elegante e pronto para a produtividade desde o primeiro boot.
+DukeOS é uma distribuição Linux baseada em Arch, criada por desenvolvedores, para desenvolvedores.
+
+Nossa missão é eliminar a dor de cabeça da configuração inicial de um ambiente de desenvolvimento, oferecendo um sistema operacional completo e pronto para a produtividade desde o primeiro boot.
 
 ## A Filosofia
 
-Quantas horas você já perdeu instalando JDKs, configurando IDEs, ajustando o terminal e caçando pacotes? O DukeOS nasceu dessa frustração. Nós acreditamos que seu foco deve estar no código, não na configuração.
+Quantas horas você já perdeu instalando JDKs, configurando IDEs, ajustando o terminal e caçando pacotes? 
+
+DukeOS nasceu dessa frustração. Nós acreditamos que seu foco deve estar no código, não na configuração.
 
 * **Tudo Incluído:** As ferramentas mais essenciais para desenvolvimento (Java, Python, Go, Rust, Node.js, Docker) já vêm pré-instaladas e gerenciadas via `asdf-vm`.
 * **Pronto para a Produtividade:** Um ambiente de desktop minimalista e focado, baseado em um Tiling Window Manager (Sway/Hyprland) e Wayland, sem distrações.
@@ -26,7 +30,9 @@ Quantas horas você já perdeu instalando JDKs, configurando IDEs, ajustando o t
 
 ## Como Contribuir
 
-Este é um projeto open-source movido pela comunidade. No momento, estamos na fase inicial de desenvolvimento. A melhor forma de ajudar é:
+Este é um projeto open-source movido pela comunidade. 
+
+No momento, estamos na fase inicial de desenvolvimento. A melhor forma de ajudar é:
 
 1.  Seguir nosso guia de construção ([BUILD.md](BUILD.md)) para criar uma ISO local.
 2.  Testar em uma máquina virtual ou hardware físico.
